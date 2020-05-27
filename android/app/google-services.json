@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467549182808",
+    "firebase_url": "https://food-cb24a.firebaseio.com",
+    "project_id": "food-cb24a",
+    "storage_bucket": "food-cb24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467549182808:android:5a1e390aca4659c6a1632d",
+        "android_client_info": {
+          "package_name": "com.example1.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467549182808-fjvrjqnn068ahv4h4g0q8tta33nl4ihc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uR8g6CacbH-BqaI7TQtkjnPzMYout18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467549182808-fjvrjqnn068ahv4h4g0q8tta33nl4ihc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
